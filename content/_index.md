@@ -10,34 +10,24 @@ menus = 'main'
 
 # 👀 About DEV
 
-DEV at OSU is a student organization that aims to provide students with the
-opportunity to expand their skills in web development and other branches of
-software engineering through workshops.
+DEV at OSU is an inclusive student organization dedicated to enhancing web development and software engineering skills through hands-on workshops.
 
-We are also committed to supporting your personal software projects by providing
-mentorship and computing resources (free hosting and subdomains on osu.dev).
+We support personal projects with mentorship and **FREE** portfolio hosting.
 
-This club is welcoming everyone regardless of their experience, major, or grade.
-To use perks like subdomains and cloud credits, you need to be an active OSU
-student, but you can still attend workshops and recieve mentorship if you are not.
+Active OSU students can access subdomains and cloud credits, while workshops and mentorship are open to everyone.
+
 {{< /section >}}
 
 {{< section id="join" >}}
 
 # 🤝 Join
 
-DEV is open membership, you can join at any time with zero commitement.
+DEV has FREE, open membership from day one. To receive exclusive club announcements, subscribe to our mailing list.
 
-To become a member, type your email {{< joinForm placeholder="here" >}}. After confirming, the first
-email you recieve has all the next steps. You will also start recieving emails
-with important club announcements. Then, just come to any of our meetings and
-you will be a member!
-
-If the form above doesn't work, click [here](https://devosu.substack.com/subscribe)
-to subscribe
+{{< joinForm >}}
 
 If you are interested in becoming an officer, [apply now!](https://to.osu.dev/teamapp).
-Please reach out to us using any of the [contact methods](#contact) if you have any questions.
+
 {{< /section >}}
 
 {{< section id="meetings" >}}
@@ -52,19 +42,15 @@ Please reach out to us using any of the [contact methods](#contact) if you have 
 
 # 🌵 Contactus
 
-Join our [Discord](https://to.osu.dev/discord) to chat with officers and other
-members, ask questions, and get help.
-
-Reach out to us at [dev@osu.edu](mailto:dev@osu.edu) if you have any
-questions, concerns, or suggestions.
+Join our [Discord](https://to.osu.dev/discord) for front-role access to members and resources. For questions and suggestions, reach out to us at [dev@osu.edu](mailto:dev@osu.edu).
 
 {{< /section >}}
 
-{{< section id="social-media">}}
+{{< section id="scientist" >}}
 
-# 📱 Social Media
+# 📸 DEV Mentors of the day
 
-Find us on [{{< tinyImage src="assets/Instagram_Glyph_White.png" alt="Instagram" >}} Instagram](https://www.instagram.com/osu.dev/), [{{< tinyImage src="assets/LinkedIn-in-white-128.png" alt="LinkedIn">}} LinkedIn](https://www.linkedin.com/company/devosu), and [{{< tinyImage src="assets/yt_icon_mono_dark.png" alt="YouTube">}} YouTube](https://www.youtube.com/@devosu).
+{{< photoOfTheDay >}}
 
 {{< /section >}}
 
@@ -78,10 +64,10 @@ supporting us, please check out [this page](support/).
 
 {{< /section >}}
 
-{{< section id="scientist" >}}
+{{< section id="social-media">}}
 
-# 📸 Computer Scientist of the day
+# 📱 Social Media
 
-{{< photoOfTheDay >}}
+Find us on [{{< tinyImage src="assets/Instagram_Glyph_White.png" alt="Instagram" >}} Instagram](https://www.instagram.com/osu.dev/), [{{< tinyImage src="assets/LinkedIn-in-white-128.png" alt="LinkedIn">}} LinkedIn](https://www.linkedin.com/company/devosu), and [{{< tinyImage src="assets/yt_icon_mono_dark.png" alt="YouTube">}} YouTube](https://www.youtube.com/@devosu).
 
 {{< /section >}}
