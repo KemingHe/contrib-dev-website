@@ -30,7 +30,7 @@ If you are interested in becoming an officer, [apply now!](https://to.osu.dev/te
 
 {{< section id="scientist" >}}
 
-# 📸 DEV Mentors of the day
+# 📸 DEV Mentor of the day
 
 {{< photoOfTheDay >}}
 
