@@ -10,21 +10,11 @@ menus = 'main'
 
 # 👀 About DEV
 
-DEV at OSU is an inclusive student organization dedicated to enhancing web development and software engineering skills through hands-on workshops.
-
-We support personal projects with mentorship and **FREE** portfolio hosting.
-
-Active OSU students can access subdomains and cloud credits, while workshops and mentorship are open to everyone.
-
-{{< /section >}}
-
-{{< section id="join" >}}
-
-# 🤝 Join
-
-DEV has FREE, open membership from day one. To receive exclusive club announcements, subscribe to our mailing list.
+DEV at OSU is an inclusive student organization dedicated to enhancing web development and software engineering skills. To receive exclusive club announcements, subscribe to our mailing list. 
 
 {{< joinForm >}}
+
+Membership is open all-year with zero cost. We host weekly hands-on workshops and support your projects with mentorship and **FREE** portfolio hosting.
 
 If you are interested in becoming an officer, [apply now!](https://to.osu.dev/teamapp).
 
@@ -35,14 +25,6 @@ If you are interested in becoming an officer, [apply now!](https://to.osu.dev/te
 # 📅 Meetings
 
 {{< meetings >}}
-
-{{< /section >}}
-
-{{< section id="contact" >}}
-
-# 🌵 Contactus
-
-Join our [Discord](https://to.osu.dev/discord) for front-role access to members and resources. For questions and suggestions, reach out to us at [dev@osu.edu](mailto:dev@osu.edu).
 
 {{< /section >}}
 
@@ -64,10 +46,12 @@ supporting us, please check out [this page](support/).
 
 {{< /section >}}
 
-{{< section id="social-media">}}
+{{< section id="contact" >}}
 
-# 📱 Social Media
+# 🌵 Contactus
 
-Find us on [{{< tinyImage src="assets/Instagram_Glyph_White.png" alt="Instagram" >}} Instagram](https://www.instagram.com/osu.dev/), [{{< tinyImage src="assets/LinkedIn-in-white-128.png" alt="LinkedIn">}} LinkedIn](https://www.linkedin.com/company/devosu), and [{{< tinyImage src="assets/yt_icon_mono_dark.png" alt="YouTube">}} YouTube](https://www.youtube.com/@devosu).
+Join our [Discord](https://to.osu.dev/discord) for premier access to help and resources. For questions and suggestions, reach out to us at [dev@osu.edu](mailto:dev@osu.edu).
+
+Also, follow us on [{{< tinyImage src="assets/Instagram_Glyph_White.png" alt="Instagram" >}} Instagram](https://www.instagram.com/osu.dev/), [{{< tinyImage src="assets/LinkedIn-in-white-128.png" alt="LinkedIn">}} LinkedIn](https://www.linkedin.com/company/devosu), and [{{< tinyImage src="assets/yt_icon_mono_dark.png" alt="YouTube">}} YouTube](https://www.youtube.com/@devosu).
 
 {{< /section >}}
